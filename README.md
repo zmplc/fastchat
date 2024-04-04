@@ -1,1 +1,1 @@
-# fastchat
+# FastChat
